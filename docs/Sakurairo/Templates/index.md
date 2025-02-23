@@ -148,7 +148,7 @@ title: 模版
 
 1. 新建页面，并在**页面属性**的模板选项中 `Steam库模板` ：
 
-   ![](/tangbao/e20f33ca9934d3078b516126bf837116.png)
+   ![](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/iro_docs/tangbao/e20f33ca9934d3078b516126bf837116.png)
 
 2. 在 WordPress 后台中选择 **iro 主题设置**，在 页面设置-模板页面设置-Steam库模板设置 中，填写您账号的64ID，例如：https://steamcommunity.com/profiles/76561199029689067/, 只需填写数字 "76561199029689067" 部分。
 
@@ -168,7 +168,7 @@ title: 模版
 
 7. 完成对应的配置后，使用 Steam库模板的页面将会显示您的游戏列表：
 
-   ![](/tangbao/dc92b37b02db0994bb6d55327d39af96.png)
+   ![](https://tangbao-1301296093.cos.ap-shanghai.myqcloud.com/iro_docs/tangbao/dc92b37b02db0994bb6d55327d39af96.png)
 
 ### My Anime List 源配置
 
